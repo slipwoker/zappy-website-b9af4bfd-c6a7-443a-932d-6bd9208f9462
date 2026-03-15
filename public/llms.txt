@@ -1,6 +1,4 @@
-# לימידנט — Generative Engine Optimization Map
-
-> תבנה לי אתר לרופא שינייים
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,17 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About לימידנט
-תבנה לי אתר לרופא שינייים
-
-## Target Audience
-- משפחות צעירות
-- אנשי עסקים
-- מבוגרים מחפשי טיפול
-
-## Industry
-בריאות ורפואה
-
+## About Business
 ---
 
 # Additional Resources
