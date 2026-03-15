@@ -1,0 +1,47 @@
+# לימידנט — Generative Engine Optimization Map
+
+> תבנה לי אתר לרופא שינייים
+
+---
+
+## Pages
+
+### בית
+https://-b9af4bfd.zappy5.app
+מרפאת שיניים לימידנט מציעה טיפולי שיניים מתקדמים למשפחות ואנשי עסקים בישראל. רופא שיניים מומחה, טכנולוגיה חדישה ושירות אישי. קבעו תור עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b9af4bfd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b9af4bfd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b9af4bfd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לימידנט
+תבנה לי אתר לרופא שינייים
+
+## Target Audience
+- משפחות צעירות
+- אנשי עסקים
+- מבוגרים מחפשי טיפול
+
+## Industry
+בריאות ורפואה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b9af4bfd.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b9af4bfd.zappy5.app/robots.txt
